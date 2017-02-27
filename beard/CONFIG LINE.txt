@@ -1,0 +1,1 @@
+addvanity 5     "beard"                 "beard"             "tag_moustache"     3   2       // face
