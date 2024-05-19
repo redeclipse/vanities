@@ -1,9 +1,5 @@
-Public Domain CC0
+CC-BY 4.0 Attribution - by ricky "unixfreak" thomson
+https://creativecommons.org/licenses/by/4.0/
+
+Based on original model by "yd"
 http://opengameart.org/content/staff-1
-
-Ported to Red Eclipse by unixfreak (ricky thomson)
-
-  * modified textures
-  * added bones
-  * added iqm.cfg
-  * converted to iqm
